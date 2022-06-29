@@ -17,7 +17,7 @@
 body{
   display: grid;
   place-items: center;
-  height: 5000px;
+  height: 100vh;
   font-family: 'Red Hat Display', sans-serif;
   background-image: url(images/pattern-background-mobile.svg);
   background-size: 100% 200%;
@@ -82,7 +82,7 @@ h2{
   margin-bottom: .25rem;
 }
 .pay-text{
-  color: red;
+  color: var(--desaturated-blue);
 }
 .cta-change{
   color: var(--bright-blue);
