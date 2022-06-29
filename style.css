@@ -82,7 +82,7 @@ h2{
   margin-bottom: .25rem;
 }
 .pay-text{
-  color: var(--desaturated-blue);
+  color: red;
 }
 .cta-change{
   color: var(--bright-blue);
